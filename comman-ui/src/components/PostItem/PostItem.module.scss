@@ -1,0 +1,86 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.user-avatar-container {
+    position: relative;
+    .role-icon {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        bottom: -6px;
+        right: 6px;
+        border-radius: 50%;
+        background-color: #333;
+        padding: 2px;
+    }
+}
+
+.user-avatar {
+    margin-right: 10px;
+}
+
+.info {
+    flex: 1;
+    div {
+        span {
+            font-size: 1.6rem;
+        }
+    }
+}
+
+.user-name,
+.dep-name {
+    color: #555555;
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+.time-stamp {
+    color: #96a2b4;
+    font-size: 1.4rem;
+}
+
+.action-btn {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.edit-btn {
+    color: #6777ef;
+    margin-right: 20px;
+}
+
+.remove-btn {
+    color: #ff4081;
+}
+
+.content {
+    margin-top: 14px;
+    background: #f2f3ff;
+    padding: 20px 40px;
+    font-family: 'Rubik';
+    color: #555555;
+    font-size: 1.6rem;
+    width: 100%;
+    border-radius: 6px;
+    ol {
+        padding-left: 40px;
+    }
+}

@@ -1,0 +1,142 @@
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.left-side {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 50%;
+    img {
+        height: 100%;
+    }
+}
+
+.company-name {
+    font-size: 5rem;
+    font-weight: 700;
+    color: #5b626b;
+}
+
+.log-in-box {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.log-in-container {
+    padding: 20px 26px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+.header {
+    h2 {
+        font-size: 3.4rem;
+        color: #333;
+        font-family: 'Rubik';
+        font-weight: 600;
+    }
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    img {
+        width: 80px;
+        height: 80px;
+        margin-right: 8px;
+    }
+}
+
+.form-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    label {
+        font-size: 3rem;
+        color: #333;
+        font-family: 'Rubik';
+        font-weight: 600;
+    }
+}
+
+.form-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    animation: fade-in 0.3s ease-in;
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.footer {
+    width: 100%;
+}
+
+.submit-btn {
+    width: 100%;
+    margin-top: 12px;
+    padding: 8px;
+}
+
+.input-box {
+    position: relative;
+    width: 100%;
+    padding: 14px 0;
+    input {
+        width: 100%;
+        padding: 16px;
+        border-radius: 4px;
+        font-size: 1.6rem;
+        outline: none;
+        border: 1px solid #e3e6ed;
+        transition: all ease 0.3s;
+        font-weight: 500;
+        font-family: 'Rubik';
+        &:focus {
+            border: 1px solid #0866ff;
+        }
+    }
+
+    input:focus + .input-label {
+        color: #0866ff;
+    }
+}
+
+.input-label {
+    position: absolute;
+    background-color: #fff;
+    border-right: 6px solid #fff;
+    border-left: 6px solid #fff;
+    top: 2px;
+    right: 30px;
+    z-index: 10;
+
+    font-size: 1.5rem;
+    color: #333;
+    font-weight: 500;
+    font-family: 'Rubik';
+    transition: all ease 0.3s;
+}

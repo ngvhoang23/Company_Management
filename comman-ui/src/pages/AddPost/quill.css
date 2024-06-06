@@ -1,0 +1,23 @@
+.quill-container {
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid #e0e2e9;
+    .ql-toolbar {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border: none;
+        border-bottom: 1px solid #e0e2e9;
+    }
+    .ql-container {
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        min-height: 290px;
+        border: none;
+    }
+
+    .ql-editor {
+        min-height: 290px;
+        font-family: 'Rubik';
+        font-size: 1.6rem;
+    }
+}

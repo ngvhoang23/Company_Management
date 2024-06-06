@@ -1,0 +1,59 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 61px;
+    background-color: #fff;
+    padding: 0 30px;
+    border-bottom: 1px solid #cfd5e1;
+}
+
+.user-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 6px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    user-select: none;
+    transition: all ease 0.3s;
+    &:hover {
+        background-color: #f0f3fb;
+    }
+}
+
+.role-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+    width: 24px;
+    height: 24px;
+    img {
+        width: 16px;
+        height: 16px;
+    }
+    border-radius: 50%;
+    background-color: #333;
+}
+
+.user-name {
+    color: #333;
+    font-size: 1.6rem;
+    font-weight: 600;
+    width: 150px;
+}
+
+.user-img {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-left: 6px;
+}
+
+.congratulation-text {
+    color: #ff4081;
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-right: 20px;
+}

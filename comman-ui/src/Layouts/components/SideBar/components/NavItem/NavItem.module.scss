@@ -1,0 +1,100 @@
+.wrapper {
+    text-decoration: none;
+}
+
+.label-container {
+    display: flex;
+    align-items: center;
+}
+
+.label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px;
+    border-radius: 4px;
+    margin: 0 8px;
+    cursor: pointer;
+    transition: all ease 0.3s;
+    &:hover {
+        background-color: #f0f3fb;
+        color: #fff;
+    }
+}
+
+.label-icon {
+    color: #555555;
+}
+
+.label-name {
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-left: 7px;
+    user-select: none;
+    color: #333;
+}
+
+.drop-icon {
+    width: 11px;
+    height: 11px;
+    color: gray;
+    font-weight: 600;
+}
+
+.drop-down-menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.menu-item {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 1.4rem;
+    font-weight: 500;
+    padding: 10px;
+    width: -webkit-fill-available;
+    margin: 0 8px;
+    cursor: pointer;
+    user-select: none;
+
+    p {
+        margin-left: 22px;
+    }
+
+    transition: all ease 0.3s;
+
+    &:hover {
+        background-color: #f0f3fb;
+    }
+}
+
+.item-link {
+    width: 100%;
+    color: #000;
+    text-decoration: none;
+    margin-top: 8px;
+    &:last-child {
+        margin-bottom: 8px;
+    }
+}
+
+.active {
+    .label {
+        background-color: #f0f3fb;
+    }
+
+    .label-name {
+        font-weight: 700;
+    }
+}
+
+.item-active {
+    li {
+        background-color: #f0f3fb;
+        font-weight: 600;
+    }
+}

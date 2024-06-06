@@ -1,0 +1,193 @@
+15 Nhan vien ( Tên - CCCD - Ngày Sinh - Giới tính - Ngày vào làm - SDT - Salary - Email - Degree - Education - Experience - Address -About )
+
+1. Phạm Ngọc Thành - 004803697568 - 26/3/1996 - Male - 2/1/2017 - 0937057757 - 10000000 - PNT@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Hệ thống thông tin trường đại học Công Nghệ Thông Tin ĐHQGHCM - 2014-2018 Học tại  trường đại học Công Nghệ Thông Tin ĐHQGHCM - 2 năm kinh nghiệm tại Công ty Cổ phần Đường Biên Hòa - Số 268 Trần Hưng Đạo, P. Nguyễn Cư Trinh, Q.1, TP. HCM - Tính cách vui vẻ hòa đồng, có kinh nghiệm quản lí
+2. Nguyễn Thị Trường An - 002604980676 - 20/4/1990 - Female - 3/2/2011 - 0838428972 - 12000000 - NTTA@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Kế toán trường đại học Ngân Hàng - 2008-2012 Học tại trường đại học Ngân Hàng - 3 năm kinh nghiệm tại Công ty cổ phần chứng Khoán Biển Việt - Số 103, đường số 5, Phường Linh Xuân, Thành phố Thủ Đức, TP Hồ Chí Minh - Có kinh nghiệm làm leader
+3. Bùi Đức Anh - 000312642091 - 30/11/1997 - Male - 10/5/2019 - 0966604027 - 9000000 - BDA@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Kế toán trường đại học Ngân Hàng - 2015-2019 Học tại trường đại học Ngân Hàng - 3 năm kinh nghiệm tại Công ty Cổ phần Nhựa Bình Minh - 223 Hoàng Văn Thụ (K3.28 Cao ốc Kingston Residence), Phường 08, Quận Phú Nhuận, TP Hồ Chí Minh - Thành thạo tin học văn phòng cơ bản
+4. Nguyễn Đoàn Thiên Cung - 001106998248 - 8/11/1995 - Female - 1/1/2019 - 0937017035 - 8000000 - NDTC@gmail.com - Tốt nghiệp loại khá Chuyên ngành Marketing trường đại học kinh tế TPHCM - 2013-2017 Học tại trường đại học Kinh tế TPHCM - 3 năm kinh nghiệm tại Công ty Cổ phần Công nghiệp Cao su Miền Nam - Tầng 16, tòa nhà E, Town Central, số 11 Đoàn Văn Bơ, phường 13, Quận 4, TP Hồ Chí Minh - Giao tiếp tốt tiếng anh
+5. Trần Hoài Rin - 006467064607 - 27/1/1994 - Male - 3/4/2013 - 0944287082 - 8000000 - THR@gmail.com - Tốt nghiệp loại khá Chuyên ngành Quản lý nhân sự trường đại học Ngân Hàng - 2012-2016 Học tại trường đại học Ngân Hàng - 1 năm kinh nghiệm tại Công ty Cát Tiên Sa - Số 473 Đỗ Xuân Hợp, Phường Phước Long B, Thành phố Thủ Đức, TP Hồ Chí Minh - Sử dụng tiếng anh thông thạo
+6. Lê Xuân Hoàng - 007052358656 - 28/8/1994 - Male - 3/5/2016 - 0397008329 - 12000000 - LXH@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Thương mại điện tử trường đại học Công Nghệ Thông Tin ĐHQGHCM - 2011-2015 Học tại trường đại học Công Nghệ Thông Tin ĐHQGHCM - 2 năm kinh nghiệm tại Công ty Cổ phần Đại Cát Tường - 120 Vũ Tông Phan , Khu Phố 5, Phường An Phú, Thành phố Thủ Đức, TP Hồ Chí Minh - Biết tiếng Trung
+7. Đoàn Thị Ánh Dương - 009654318793 - 16/8/1992 - Female - 5/7/2012 - 0839060655 - 15000000 - DTAD@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Thương mại điện tử trường đại học Quốc tế ĐHQGHCM - 2010-2014 Học tại trường đại học Quốc tế ĐHQGHCM - 2 năm kinh nghiệm tại Tập đoàn FPT - 72 Bình Giã, Phường 13, Quận Tân Bình, TP Hồ Chí Minh - Có nhiều năm kinh nghiệm trong việc làm HR
+8. Nguyen Thi Nga - 00715233358656 - 17/8/1991 - Female - 02/1/2020 - 0974808483 - 12000000 - phuongnt@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Kiểm toán trường đại học Ngân Hàng - 2009-2013 Học tại trường đại học Ngân Hàng - 3 năm kinh nghiệm tại Công ty cổ phần Sữa Hà Nội - C10 Rio Vista, 72 Dương Đình Hội, Phường Phước Long B, Thành phố Thủ Đức, TP Hồ Chí Minh - Có nghiệm trong việc làm HR
+9. Đỗ Thị Mỹ Hạnh - 001674920366 - 24/6/1991 - Female - 14/3/2018 - 0164812915 - 17000000 - hanhdtm@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Quản trị kinh doanh trường đại học Ngân Hàng - 2009-2013 Học tại trường đại học Ngân Hàng - 4 năm kinh nghiệm tại Tập đoàn Hoàng Anh Gia Lai - K02, Park Riverside, 09 Bưng ông Thoàn, Phường Phú Hữu, Thành phố Thủ Đức, TP Hồ Chí Minh - Có kinh nghiệm trong việc tổ chức sự kiện
+10. Nguyễn Thị Ngọc Bích - 02480347598 - 4/1/1991 - Female - 07/8/2018 - 0167343388 - 15000000 - bichntn@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Quản trị kinh doanh trường đại học Kinh tế quốc dân - 2009-2013 Học tại trường đại học Kinh tế quốc dân - 4 năm kinh nghiệm tại Công ty Trách nhiệm hữu hạn Bia Huế  - Số 125, Đường số 5, Khu đô thị Lakeview city, Phường An Phú, Thành phố Thủ Đức, TP Hồ Chí Minh - Đã từng làm start-up
+11. Trần Nhật Quang -  009654222794 - 18/9/1991 - Male - 06/12/2015 - 0988753023 - 10000000 - hoangnt@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Kế toán trường đại học Kinh tế quốc dân - 2009-2013 Học tại trường đại học Kinh tế quốc dân - 5 năm kinh nghiệm tại Nhà xuất bản Kim Đồng - Số 197 (Lầu 2), Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, TP Hồ Chí Minh - Thành thạo tin học văn phòng cơ bản
+12. Châu Thị Thanh Bình - 006777264607 - 5/19/1994 - Male - 31/8/2017 - 0165607711 - 12000000 - binhcth@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Quản trị kinh doanh trường đại học Ngoại thương - 2012-2016 Học tại trường đại học Ngoại thương - 2 năm kinh nghiệm tại Tổng công ty Viễn thông MobiFone - 1001/2 /5 Đường Nguyễn Thị Định, Khu Phố 3, Phường Cát Lái, Thành phố Thủ Đức, TP Hồ Chí Minh - Có thể làm việc trong môi trường tiếng anh 
+13. Trần Thị Kim Thùy - 006479174307 - 8/8/1991 - Female - 06/4/2016 - 0972907579 - 15000000 - thuyttk@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Quản lý nhân sự trường đại học Kinh tế quốc dân - 2009-2013 Học tại trường đại học Kinh tế quốc dân - 3 năm kinh nghiệm tại Ngân hàng thương mại cổ phần Phương Đông - 33/9A Đường số 08, Khu phố 01, Phường Linh Xuân, Thành phố Thủ Đức, TP Hồ Chí Minh - Có kĩ năng giao tiếp, làm việc nhóm
+14. Lương Thị Hồng Phúc - 00413579568 - 9/1/1990 - Female - 24/4/2017 - 0165810238 - 20000000 - phuclth@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Quản trị kinh doanh trường đại học Kinh tế quốc dân - 2002-2012 Học tại trường đại học Kinh tế quốc dân - 5 năm kinh nghiệm tại Tổng công ty Gas Petrolimex - 1275/15/12A Đường Nguyễn Duy Trinh, Khu phố Phước Lai, Phường Long Trường, Thành phố Thủ Đức, TP Hồ Chí Minh - Biết tiếng Nhật, Pháp
+15. Nguyễn Thị Thanh Hải - 001910286406 - 14/12/1992 - Female - 21/6/2020 - 0166624075 - 25000000 - hainth@gmail.com - Tốt nghiệp loại giỏi Chuyên ngành Quản trị kinh doanh trường đại học Kinh tế quốc dân - 2009-2013 Học trường đại học Kinh tế quốc dân - 6 năm kinh nghiệm tại Tập đoàn Dầu khí Việt Nam - 03 Đường 22, Phường Thạnh Mỹ Lợi, Thành phố Thủ Đức, TP Hồ Chí Minh - Có kĩ năng làm việc nhóm
+
+==============================================================================================================================================================================================================================================================================================================================================================================================================================
+
+Designing 
+
+
+* Post: Giao cho bộ phận HR ở phòng ban Design tuyển dụng thành viên
+
+THÔNG BÁO TUYỂN DỤNG
+1. Số lượng tuyển dụng: 1 fulltime
+2. Mô tả công việc:
+- Chịu trách nhiệm thiết kế đồ họa theo yêu cầu của dự án (Website, microsite, …).
+- Phát triển ý tưởng và thực hiện concept cho các dự án marketing, content online và offline… theo yêu cầu của sản phẩm.
+- Địa điểm làm việc: Văn phòng Hà Nội: Tầng 28, Lotte Center, 54 Liễu Giai, Ba Đình, Hà Nội
+3. Yêu cầu ứng viên:
+- Có kinh nghiệm thiết kế banner/poster
+- Có tư duy thẩm mỹ, bố cục, màu sắc, font chữ, phong cách thiết kế phù hợp, vẽ tay tốt là một lợi thế.Có kiến thức chuyên sâu và sử dụng thành thạo các công nghệ, phần mềm mới nhất để sản xuất nội dung theo phong cách hiện đại.
+- Có khả năng phát triển ý tưởng, concept sáng tạo phù hợp với yêu cầu của sản phẩm và dự án.
+- Chăm chỉ, có tinh thần trách nhiệm, có tính cam kết và chịu được áp lực công việc cao.
+4. Quyền lợi:
+- Mức hỗ trợ hấp dẫn, cạnh tranh
+- Cơ hội tích “buff” sức mạnh, tích lũy cực nhiều kinh nghiệm thực chiến – được trao quyền nắm những dự án đầy thách thức, quan trọng và nhiều ý nghĩa với Công ty
+- Tha hồ học hỏi, sáng tạo, thử nghiệm, được đào tạo và hướng dẫn bài bản từ dàn mentor dày dặn kinh nghiệm
+- Môi trường làm việc trẻ trung, năng động, đồng nghiệp siêu dễ thương, nhiệt huyết và tài năng, luôn cùng tần số “làm hết sức, chơi hết mình”
+- Không gian làm việc siêu mê với view toàn thành phố và pantry siêu rộng đáp ứng những chiếc bụng đói
+
+
+* Post:
+
+
+THÔNG BÁO TIẾP NHẬN CÔNG VIỆC THIẾT KẾ BANNER
+
+
+1. Yêu cầu của khách hàng: 
+- Tiêu đề cần phải viết ngắn gọn, súc tích, tránh lề mề, dài dòng, truyền tải hết được những thông điệp và ý nghĩa
+- Một hình ảnh với đồ họa đẹp mắt, sắc nét, tinh tế và có điểm nhấn chắc chắn sẽ gây được sự chú ý của người đọc, người xem
+- Khi thiết kế banner cần chọn những vị trí dễ quan sát để đặt thương hiệu
+- Đồng bộ ngữ cảnh và màu sắc
+- Font chữ lớn và rõ ràng
+2. Chia nhóm lên ý tưởng về Banner
+3. Phân công công việc và thời gian nộp 
+
+
+* Calendar
+
+ROOM: E2, Tầng 28, Lotte Center, 54 Liễu Giai, Ba Đình, Hà Nội
+START DATE: 25/5/2023 8:00AM
+END DATE: 25/5/2023 10:00AM
+Content: Tiếp nhận và phân chia công việc thiết kế Banner
+
+* Calendar
+
+ROOM: E2, Tầng 28, Lotte Center, 54 Liễu Giai, Ba Đình, Hà Nội
+START DATE: 1/4/2023 8:00AM
+END DATE: 1/4/2023 10:00AM
+Content: Thông báo về lịch nghỉ lễ và các việc cần hoàn thành trước lễ
+
+
+* Request
+
+Tên: Phạm Ngọc Thành - HR của phòng ban Design
+Loại yêu cầu: Mở phòng E2 
+Nội dung: Yêu cầu mở phòng E2 vào ngày 15/5/2023 vào lúc 8:00AM để phỏng vấn ứng viên đáp ứng yêu cầu tuyển dụng. Sẽ kết thúc vào 11:00AM cùng ngày 
+
+
+* Request
+
+Tên: Nguyễn Thị Trường An - trưởng phòng của phòng ban Design
+Loại yêu cầu: Mở phòng E2 
+Nội dung: Yêu cầu mở phòng E2 vào ngày 31/5/2023 vào lúc 8:00AM để họp phòng ban về việc thiết kế banner. Sẽ kết thúc vào 11:00AM cùng ngày 
+
+==============================================================================================================================================================================================================================================================================================================================================================================================================================
+
+
+Developing 
+
+* Post
+
+THÔNG BÁO TIẾP NHẬN CÔNG VIỆC PHÁT TRIỂN THIẾT KẾ GIAO DIỆN WEBSITE KHÁCH HÀNG YÊU CẦU
+
+1. Tiếp nhận các yêu cầu của khách khàng từ phòng ban Design
+2. Chia nhóm 
+3. Phân công công việc và thời gian nộp 
+
+
+* Post
+
+THÔNG BÁO CHIA TAY VỚI THÀNH VIÊN TRONG PHÒNG BAN
+
+Tuần này chính là tuần làm việc cuối cùng của nhân viên Đỗ Thị Mỹ Hạnh. 
+Ngày cuối cùng nghỉ việc rời công ty, đừng quên gửi lời cảm ơn, lời chúc tới đồng nghiệp đã đồng hành, gắn bó với mình trong suốt thời gian qua để lưu lại những kỷ niệm đáng nhớ về nhau. 
+Bạn cũng có thể gửi tin nhắn tạm biệt đồng nghiệp, quản lý trước khi nghỉ việc chuyển sang nơi công tác mới 
+
+* Calendar
+
+ROOM: E1, Tầng 28, Lotte Center, 54 Liễu Giai, Ba Đình, Hà Nội
+START DATE: 5/4/2023 4:00PM
+END DATE: 5/4/2023 5:00PM
+Content: Tổ chức bữa ăn nhẹ chia tay đồng nghiệp
+
+
+
+* Calendar
+
+ROOM: Meeting online
+START DATE: 5/5/2023 8:00AM
+END DATE: 5/5/2023 10:00AM
+Content: Họp báo cáo tiến độ dự án website của khách hàng
+
+
+* Request
+
+Tên: Trần Thị Kim Thùy - trưởng phòng của phòng ban Developing
+Loại yêu cầu: Mở phòng E1
+Nội dung: Yêu cầu mở phòng E1 vào ngày 5/4/2023 vào lúc 4:00PM để mở tiệc nhẹ chia tay đồng nghiệp. Sẽ kết thúc vào 5:00PM cùng ngày 
+
+
+* Request
+
+Tên: Đỗ Thị Mỹ Hạnh - nhân viên của phòng ban Developing
+Loại yêu cầu: Thôi việc
+Nội dung: Xin phép thôi việc vì lí do cá nhân từ ngày 7/4/2023
+
+
+==============================================================================================================================================================================================================================================================================================================================================================================================================================
+
+
+Testing
+
+* Post
+
+THÔNG BÁO TIẾP NHẬN CÔNG VIỆC KIỂM THỬ WEBSITE KHÁCH HÀNG YÊU CẦU
+
+1. Tiếp nhận các yêu cầu từ phòng ban Developing
+2. Phân tích yêu cầu và đưa ra chiến lược
+3. Chia nhóm 
+4. Phân công công việc và thời gian nộp 
+
+* Post
+
+THÔNG BÁO ÁP DỤNG CÔNG NGHỆ MỚI VÀO QUÁ TRÌNH KIỂM THỬ
+
+1. Thông báo về việc áp dụng công nghệ mới
+2. Thông báo công mới nghệ
+3. Tổ chức training cho mọi người trong team về công nghệ mới
+4. Áp dụng vào quy trình testing
+
+* Calendar
+
+ROOM: E2, Tầng 28, Lotte Center, 54 Liễu Giai, Ba Đình, Hà Nội
+START DATE: 5/5/2023 8:00AM
+END DATE: 5/5/2023 10:00AM
+Content: Thông báo về việc áp dụng công nghệ mới
+
+
+* Calendar
+
+ROOM: E2, Tầng 28, Lotte Center, 54 Liễu Giai, Ba Đình, Hà Nội
+START DATE: 7/5/2023 8:00AM
+END DATE: 7/5/2023 10:00AM
+Content: Traning cho nhân viên về công nghệ mới
+
+
+* Request
+
+Tên: Đoàn Thị Ánh Dương - Trưởng phòng của phòng ban Design
+Loại yêu cầu: Mở phòng E2 
+Nội dung: Yêu cầu mở phòng E2 vào ngày 5/5/2023 vào lúc 8:00AM để họp thông báo về công nghệ sẽ dùng. Sẽ kết thúc vào 11:00AM cùng ngày 
+
+
+* Request
+
+Tên: Đoàn Thị Ánh Dương - Trưởng phòng của phòng ban Design
+Loại yêu cầu: Mở phòng E2 
+Nội dung: Yêu cầu mở phòng E2 vào ngày 7/5/2023 vào lúc 8:00AM để training về công nghệ. Sẽ kết thúc vào 11:00AM cùng ngày 
+

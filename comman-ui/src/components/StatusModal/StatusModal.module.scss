@@ -1,0 +1,40 @@
+.wrapper {
+    background-color: rgba(0, 0, 0, 0.04);
+    width: 100vw;
+    height: 100vh;
+    z-index: 101;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    animation: fade-in 0.3s ease-in;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: 1px solid #cfd5e1;
+
+    p {
+        font-family: 'Rubik';
+        font-size: 2rem;
+        font-weight: 500;
+        margin-left: 8px;
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

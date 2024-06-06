@@ -1,0 +1,220 @@
+.wrapper {
+    position: fixed;
+    width: 300px;
+    height: 100vh;
+    background: #ffffff;
+    border-right: 1px solid #e5e9f2;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.side-bar-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 14px 0;
+    cursor: pointer;
+}
+
+.company-logo {
+    width: 42px;
+    height: 42px;
+    margin-right: 10px;
+}
+
+.company-name {
+    font-size: 3rem;
+    font-weight: 600;
+    &::first-letter {
+        color: rgb(240, 194, 28);
+        font-size: 4rem;
+    }
+}
+
+.user-info {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-bottom: 1px solid #e5e9f1;
+    padding-bottom: 12px;
+}
+
+.user-img {
+    margin-bottom: 10px;
+}
+
+.user-name {
+    color: #060606;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+.user-role {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: rgb(255, 212, 59);
+    padding: 2px 8px;
+    border-radius: 10px;
+    margin-top: 2px;
+    background-color: #333;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px,
+        rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+
+    p {
+        font-size: 1.4rem;
+        font-weight: 500;
+    }
+}
+
+.role-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    img {
+        width: 16px;
+        height: 16px;
+    }
+    border-radius: 50%;
+    background-color: #333;
+}
+
+.navigation-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    flex: 1;
+}
+
+.nav-group {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.nav-group-header {
+    margin-left: 23px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-top: 15px;
+    padding: 15px 0;
+}
+
+.navigation-menu {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh - 330px);
+    overflow: auto;
+    padding-top: 12px;
+}
+
+.navigation-item {
+    margin-bottom: 8px;
+}
+
+.com-structure-btn {
+    border: none;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px;
+    margin: 0 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    p {
+        font-family: 'Rubik';
+        font-size: 1.6rem;
+        font-weight: 500;
+        margin-left: 7px;
+        -webkit-user-select: none;
+        user-select: none;
+        color: #333;
+    }
+
+    &:hover {
+        background-color: #f0f3fb;
+    }
+
+    .com-structure-icon {
+    }
+}
+
+.logout-btn {
+    width: 90%;
+    border: none;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    p {
+        font-family: 'Rubik';
+        font-size: 1.6rem;
+        font-weight: 500;
+        margin-left: 7px;
+        -webkit-user-select: none;
+        user-select: none;
+        color: #333;
+    }
+
+    &:hover {
+        p {
+            color: #fff !important;
+        }
+        .logout-icon {
+            color: #fff !important;
+        }
+        background-color: #ff3333 !important;
+    }
+    transition: all ease 0.3s;
+
+    .logout-icon {
+        width: 20px;
+        height: 20px;
+        margin-right: 8px;
+        color: #333;
+    }
+}
+
+.footer {
+    border-top: 1px solid #d8dee8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 6px 0;
+}
+
+.active {
+    background-color: #f0f3fb;
+    p {
+        font-weight: 700;
+    }
+}
+
+.navigation-menu::-webkit-scrollbar {
+    display: none;
+}
+
+.navigation-menu::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.15);
+}
+
+.navigation-menu::-webkit-scrollbar-track {
+    border-radius: 0;
+    background-color: rgba(0, 0, 0, 0);
+}

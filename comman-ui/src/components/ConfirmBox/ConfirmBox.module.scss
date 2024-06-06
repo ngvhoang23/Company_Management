@@ -1,0 +1,119 @@
+.wrapper {
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 100vw;
+    height: 100vh;
+    z-index: 10;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    animation: fade-in 0.3s ease-in;
+}
+
+.container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 400px;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 14px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #cfd5e1;
+    padding: 0px 16px 12px;
+
+    p {
+        font-family: 'Rubik';
+        font-size: 1.8rem;
+        font-weight: 500;
+    }
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    img {
+        height: 40px;
+        width: 40px;
+        margin-right: 8px;
+    }
+}
+
+.close-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 50%;
+    transition: all ease 0.3s;
+}
+
+.close-icon {
+    transition: all ease 0.3s;
+    color: #847d7d;
+    font-size: 2.8rem;
+    &:hover {
+        color: #e2392c;
+    }
+}
+
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-height: 100px;
+    width: 400px;
+    font-size: 2.4rem;
+    font-weight: 600;
+    .content {
+        text-align: center;
+        font-family: 'Rubik';
+        font-size: 2rem;
+        padding: 12px;
+        margin-bottom: 8px;
+        font-weight: 400;
+    }
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.approve-btn {
+}
+
+.reject-btn {
+    transition: all ease 0.3s;
+    margin-left: 12px;
+    font-family: 'Rubik';
+    background-color: #f44336;
+    &:hover {
+        background-color: #e2392c;
+        color: #eaeef9;
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

@@ -1,0 +1,39 @@
+.wrapper {
+    background-color: #ecf0f4;
+    width: 100%;
+    height: 100%;
+    padding: 0 25px;
+    height: calc(100vh - 61px);
+    overflow: auto;
+    margin-top: 30px;
+    animation: fade-in 0.3s ease-in;
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.container {
+}
+
+.mt-16 {
+    margin-top: 16px;
+}
+
+.wrapper::-webkit-scrollbar {
+    width: 8px;
+}
+
+.wrapper::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.15);
+}
+
+.wrapper::-webkit-scrollbar-track {
+    border-radius: 0;
+    background-color: rgba(0, 0, 0, 0);
+}

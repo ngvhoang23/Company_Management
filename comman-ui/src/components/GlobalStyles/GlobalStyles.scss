@@ -1,0 +1,61 @@
+@import 'normalize.css';
+
+:root {
+}
+
+html {
+    font-size: 62.5%;
+}
+
+* {
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// Fonts emmbeded
+
+@font-face {
+    font-family: Rubik;
+    src: url('../../assets/fonts/Baloo2-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Rubik;
+    src: url('../../assets/fonts/Baloo2-Regular.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Rubik;
+    src: url('../../assets/fonts/Baloo2-Medium.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Rubik;
+    src: url('../../assets/fonts/Baloo2-SemiBold.ttf');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: Rubik;
+    src: url('../../assets/fonts/Baloo2-Bold.ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Rubik;
+    src: url('../../assets/fonts/Baloo2-ExtraBold.ttf');
+    font-weight: 800;
+}
+
+body {
+    font-family: 'Rubik';
+    font-size: 1.6rem;
+    line-height: 1.5;
+    margin: 0;
+}
